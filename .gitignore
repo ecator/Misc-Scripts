@@ -1,0 +1,6 @@
+*.mp3
+*.lrc
+*.csv
+.project
+.pydevproject
+collection.media

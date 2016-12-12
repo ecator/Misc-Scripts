@@ -21,3 +21,6 @@ PS:遗憾的是，Kindle原生系统生词本会保留生词所在例句，多�
 3. 把所有mp3文件拷贝到Anki存放多媒体文件的目录，类似C:\Users\xxx\Documents\Anki\xxx\collection.media
 
 4. 打开Anki，导入生成的Tobeimport.csv，注意分隔符是逗号。我专注听力，所以正面问题是音频，背面答案是英文台词
+
+# ab2anki-zh.py
+在TransDoukanDictToCsv.py基础上修改而来，用法一样，只是在添加了中文释义，并且以```<br>```分隔
